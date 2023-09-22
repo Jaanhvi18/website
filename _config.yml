@@ -1,14 +1,14 @@
 # Site settings
 #--------------
-title: Electronics Club, IIT Bombay
+title: Colgate University
 header-img: assets/img/home-bg.jpg
 logo: assets/ico/logo.png
-email: eciitb@gmail.com
-copyright_name: Electronics Club, IIT Bombay
-description: The electronics enthusiasts of IITB
-meta-description: Website for The Electronics Club of IIT Bombay. Electronics Club is a group of electronics enthusiasts in IITB who conduct sessions and events on electronics for the community.
+email: jagarwal@colgate.edu
+copyright_name: Colgate University
+description: The electronics enthusiasts of Colgate
+meta-description: Website for The Colgate Technic Titans.
 #twitter_username: SBootstrap
-github_username:  elec-club-iitb
+github_username:  Jaanhvi18
 #facebook_username:  IronSummitMedia
 #email_username:  your-email@yourdomain.com
 
@@ -23,7 +23,7 @@ gems: ['jekyll-paginate', 'jekyll-sass-converter']
 
 # Configuration for url/path
 baseurl: /electronics-club
-url: https://stab-iitb.org/electronics-club
+# url: https://stab-iitb.org/electronics-club
 
 # Permalink
 permalink: /blog/:year/:month/:title/
@@ -38,8 +38,8 @@ nav_menu:
       url: "/events"
     - name: Chat
       url: "/chat"
-    - name: Team
-      url: "/teampage"
+    # - name: Team
+    #   url: "/teampage"
 # Declaring tutorials collection
 collections:
   tutorials:
@@ -51,7 +51,7 @@ collections:
 
 # For comments sections
 disqus:
-    short_name: eciitb
+    short_name: ctt
     comment_count: true
     developer_mode: true
 

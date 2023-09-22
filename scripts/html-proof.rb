@@ -1,7 +1,7 @@
 require 'html-proofer'
 
 opt = {
-    :url_swap => { "https:\/\/elec-club-iitb\.github\.io\/" => "/" },
+    :url_swap => { "https:\/\/colgate-technic-titans\.github\.io\/" => "/" },
     :allow_hash_href => true    
 }
 
